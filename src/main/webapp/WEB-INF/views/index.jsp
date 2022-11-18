@@ -9,6 +9,6 @@ uri="http://java.sun.com/jsp/jstl/fmt"%>
     <h1>Very Very...</h1>
     <h1>GOGO!...</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
-    <h3>Version: 3.0</h3>
+    <h3>Version: 4.0 WOW</h3>
   </body>
 </html>
